@@ -1,4 +1,4 @@
-# CHALLENGE DESCRIPTION
+![image](https://github.com/user-attachments/assets/b33a98f1-fd9c-4184-a8cf-172e047b073d)# CHALLENGE DESCRIPTION
 It's time to learn some basic things about binaries and basic c. Answer some questions to get the flag.
 
 ![image](https://github.com/user-attachments/assets/7282499b-a2c7-4d82-b07f-94b8f7d67950)
@@ -28,3 +28,14 @@ It's time to learn some basic things about binaries and basic c. Answer some que
 ![image](https://github.com/user-attachments/assets/0c2d9861-7962-4c61-9bf6-e46e5a1c69d3)
 
 ![image](https://github.com/user-attachments/assets/f9dc0a75-1074-45ca-b115-5bb450ee7f5f)
+
+After answer Question 0x8 correct, it give the flag.
+
+![image](https://github.com/user-attachments/assets/176282ba-b7e1-4b75-9fd9-6cae42ea01ef)
+
+# Flag
+
+HTB{w4rm35t_w4rmup_3v3r}
+
+
+
