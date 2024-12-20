@@ -1,0 +1,46 @@
+{
+    "tickets": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "username": "guest_1234",
+            "content": "I need help with my account."
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "username": "guest_5678",
+            "content": "There is an issue with my subscription."
+        },
+        {
+            "id": 3,
+            "name": "Admin",
+            "username": "admin",
+            "content": "Top secret: The Halloween party is at the haunted mansion this year. Use this code to enter HTB{k33p_th3s3_jwt_s3cr3t_s4f3f_br0}\n"
+        },
+        {
+            "id": 4,
+            "name": "Paul Blake",
+            "username": "guest_9012",
+            "content": "Can someone assist with resetting my password?"
+        },
+        {
+            "id": 5,
+            "name": "Alice Cooper",
+            "username": "guest_3456",
+            "content": "The app crashes every time I try to upload a picture."
+        },
+        {
+            "id": 6,
+            "name": "admin",
+            "username": "guest_5098",
+            "content": "just testing admin"
+        },
+        {
+            "id": 7,
+            "name": "admin",
+            "username": "admin",
+            "content": "admin\n"
+        }
+    ]
+}
